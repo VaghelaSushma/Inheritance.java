@@ -12,7 +12,10 @@ public class Emp1 extends Employee{
 	
 	public void skill() {
 		System.out.println("He is master in Java.");
-	}
+			}
+	public void pay() {
+		System.out.println("Pay will be decided after probabation.");//updated by Krutika
+			}
 	
 }
 	
