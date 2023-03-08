@@ -13,7 +13,7 @@ public abstract class Prashant_learning_Ins {
 
 	public  void manual_sessions() {
 		
-		System.out.println("Its better to start with manual sessions in first 4 weeks");
+		System.out.println("Its better to start with manual sessions in first 6 weeks"); //changed by Sushma
 	}
 
 	public void api_sessions() {
