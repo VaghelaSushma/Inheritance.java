@@ -9,5 +9,5 @@ public class Inheritance {
 	 * the same named member function from the parent class, then it results in ambiguity. The compiler is confused as 
 	 * method of which parent class method to invoke on executing the call statement. */
 	 
-	
+ //created by me	
 }
